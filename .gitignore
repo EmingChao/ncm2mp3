@@ -1,0 +1,16 @@
+# 别把音乐文件本身提交上来
+*.ncm
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.lrc
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 输出 / 系统
+out/
+.DS_Store
