@@ -14,3 +14,6 @@ __pycache__/
 # 输出 / 系统
 out/
 .DS_Store
+
+# 本地 gh 登录态（沙箱只能写工作区，故意放这儿）
+.ghconfig/
